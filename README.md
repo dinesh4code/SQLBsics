@@ -1,0 +1,2 @@
+# SQLBsics
+LearningSQL
